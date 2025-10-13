@@ -36,7 +36,7 @@ export default function NotFound() {
         onClick={() => new Audio("/images/fool.mp3").play()}
         className="text-gray-400 mt-4 text-lg border px-4 py-2 rounded hover:bg-gray-800 transition z-10"
       >
-        This one's for you
+        This one’s for you
       </button>
     </div>
   );
