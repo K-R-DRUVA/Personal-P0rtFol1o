@@ -105,7 +105,7 @@ export const DATA = {
       title: "Technical Head",
       logoUrl: "/images/IEEE.jpg",
       start: "Jun 2023",
-      end: "Present",
+      end: "Aug 2025",
       description:
         "Led team of 24 for Kalpana 2023/24 hackathon with over 300+ national participants. Designed challenges and co-managed deployment for 5 cybersecurity challenges/CTFs ensuring 99.9% uptime. Improved participant engagement by 40% via robust technical feedback loops.",
     },
@@ -152,7 +152,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/images/Gemini_Generated_Image_q4emudq4emudq4em.png",
+      image: "/images/emotion.png",
     },
     {
       title: "Personal Financial Advisor",
