@@ -3,7 +3,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "DRUVA",
-  initials: "AH",
+  initials: "K R",
   url: "https://druva.vercel.app",
   location: "Electronic City, Bangalore, Karnataka",
   locationLink: "https://www.google.com/maps/place/ElectronicCity,Bangalore",
