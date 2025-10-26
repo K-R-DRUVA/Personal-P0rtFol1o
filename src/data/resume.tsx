@@ -31,7 +31,7 @@ export const DATA = {
   navbar: [{ href: "/", icon: HomeIcon, label: "Home" }],
   contact: {
     email: "druvagayithri@gmail.com",
-    tel: "+91 8123685938",
+    tel: "+91 9482556139",
     social: {
       GitHub: {
         name: "GitHub",
