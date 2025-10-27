@@ -5,13 +5,16 @@ import { DATA } from "@/data/resume";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
+import Script from "next/script"; // ✅ Import Script for GA
 import "./globals.css";
 
+// Font setup
 const fontSans = FontSans({
   subsets: ["latin"],
   variable: "--font-sans",
 });
 
+// Metadata setup
 export const metadata: Metadata = {
   metadataBase: new URL(DATA.url),
   title: {
@@ -48,6 +51,40 @@ export const metadata: Metadata = {
   },
 };
 
+// -------------------------------------------------------------
+// ✅ Dedicated Google Analytics Component
+function GoogleAnalytics() {
+  const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || "";
+
+  if (!GA_MEASUREMENT_ID) return null; // Don’t render if ID missing
+
+  return (
+    <>
+      {/* Load GA script */}
+      <Script
+        strategy="afterInteractive"
+        src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+      />
+
+      {/* Initialize GA */}
+      <Script
+        id="google-analytics-init"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{
+          __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}');
+          `,
+        }}
+      />
+    </>
+  );
+}
+
+// -------------------------------------------------------------
+// ✅ Root Layout
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -57,14 +94,20 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body
         className={cn(
-          "min-h-screen bg-background font-sans antialiased max-w-2xl mx-auto py-12 sm:py-24 px-6",
+          "min-h-screen bg-background font-sans antialiased",
           fontSans.variable
         )}
       >
-        <ThemeProvider attribute="class" defaultTheme="light">
+        {/* Google Analytics Component */}
+        <GoogleAnalytics />
+
+        {/* Theme + Tooltip + Navbar */}
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <TooltipProvider delayDuration={0}>
-            {children}
             <Navbar />
+            <main className="flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0">
+              {children}
+            </main>
           </TooltipProvider>
         </ThemeProvider>
       </body>
