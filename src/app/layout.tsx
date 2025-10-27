@@ -5,16 +5,14 @@ import { DATA } from "@/data/resume";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
-import Script from "next/script"; // ✅ Import Script for GA
+import Script from "next/script"; 
 import "./globals.css";
 
-// Font setup
 const fontSans = FontSans({
   subsets: ["latin"],
   variable: "--font-sans",
 });
 
-// Metadata setup
 export const metadata: Metadata = {
   metadataBase: new URL(DATA.url),
   title: {
@@ -51,6 +49,7 @@ export const metadata: Metadata = {
   },
 };
 
+
 // -------------------------------------------------------------
 // ✅ Dedicated Google Analytics Component
 function GoogleAnalytics() {
@@ -82,9 +81,8 @@ function GoogleAnalytics() {
     </>
   );
 }
+// Root Layout
 
-// -------------------------------------------------------------
-// ✅ Root Layout
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -92,22 +90,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      {/* <!-- Google tag (gtag.js) --> */}
+      <head><GoogleAnalytics /></head>
+      
       <body
         className={cn(
-          "min-h-screen bg-background font-sans antialiased",
+          "min-h-screen bg-background font-sans antialiased max-w-2xl mx-auto py-12 sm:py-24 px-6",
           fontSans.variable
         )}
       >
-        {/* Google Analytics Component */}
-        <GoogleAnalytics />
-
-        {/* Theme + Tooltip + Navbar */}
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="light">
           <TooltipProvider delayDuration={0}>
+            {children}
             <Navbar />
-            <main className="flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0">
-              {children}
-            </main>
           </TooltipProvider>
         </ThemeProvider>
       </body>
