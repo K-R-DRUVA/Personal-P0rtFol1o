@@ -276,9 +276,10 @@ And somehow...
 
 over a breakfast that my taste buds completely disagreed with...
 
+
 we became friends.
 
-![Breakfast with the people who would make the rest of my Hong Kong trip unforgettable.](../../../../../public/images/stories/first_time_meeting_thai_friends.jpg)
+![Breakfast with the people who would make the rest of my Hong Kong trip unforgettable.](/images/stories/first_time_meeting_thai_friends.jpg)
 
 
 *From right to left: Japan, Boom, me, Prof.Cat and Prof.Air  from Thailand—the five of us had no idea this breakfast was the beginning of a friendship that would define the rest of the trip.*

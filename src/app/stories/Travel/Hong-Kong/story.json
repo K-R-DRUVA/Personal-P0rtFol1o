@@ -1,0 +1,11 @@
+{
+  "title": "Hong Kong & Macau",
+  "cover": "/images/stories/hongkong-coverphoto.jpg",
+  "chapters": [
+    "README.md",
+    "intro.md",
+    "01-getting-there.md",
+    "03-macau.md",
+    "02-conference.md"
+  ]
+}

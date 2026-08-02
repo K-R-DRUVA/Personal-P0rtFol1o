@@ -66,7 +66,7 @@ By the time my presentation started, I had somehow managed to survive the hot sh
 
 Now came the actual reason I had travelled all the way to Hong Kong.
 
-![Presenting my research paper at the conference.](../../../../../public/images/stories/presentation.jpeg)
+![Presenting my research paper at the conference.](/images/stories/presentation.jpeg)
 
 *Presenting my research paper at the conference.*
 
@@ -233,7 +233,7 @@ The conference organizers had arranged a traditional Chinese banquet for all the
 
 The moment I walked into the dining hall, I just stood there for a second taking everything in.
 
-![The traditional Chinese banquet that welcomed all the conference delegates.](../../../../../public/images/stories/chinese-banquet.jpg)
+![The traditional Chinese banquet that welcomed all the conference delegates.](/images/stories/chinese-banquet.jpg)
 
 *Our first glimpse of a traditional Chinese banquet.*
 
@@ -249,23 +249,23 @@ Every few minutes, waiters would walk in carrying massive dishes and place them 
 
 A whole fish.
 
-![Whole fish served at the banquet.](../../../../../public/images/stories/fish.jpg)
+![Whole fish served at the banquet.](/images/stories/fish.jpg)
 
 Then came the roasted duck.
 
-![Roasted duck.](../../../../../public/images/stories/duck.jpg)
+![Roasted duck.](/images/stories/duck.jpg)
 
 Followed by crispy pork that would eventually become my favourite dish of the evening.
 
-![Roasted pork.](../../../../../public/images/stories/pork.jpg)
+![Roasted pork.](/images/stories/pork.jpg)
 
 Then came vegetables...
 
-![Vegetables.](../../../../../public/images/stories/vegetables.jpg)
+![Vegetables.](/images/stories/vegetables.jpg)
 
 ...and finally, soup.
 
-![Soup.](../../../../../public/images/stories/soup.jpg)
+![Soup.](/images/stories/soup.jpg)
 
 
 Everything was shared.
@@ -301,7 +301,7 @@ Now before I tell you about the absolute disaster that followed...
 I have to appreciate one thing.
 
 The roasted pork.
-![Slice of Pork](../../../../../public/images/stories/slice_of_pork.jpg)
+![Slice of Pork](/images/stories/slice_of_pork.jpg)
 
 To this day, I still think it was one of the best things I've ever eaten.
 
@@ -612,7 +612,7 @@ Just when I thought the worst was over...
 the waiters arrived with the final dish.
 
 Fried rice.
-![Fried Rice](../../../../../public/images/stories/fried_rice.jpg)
+![Fried Rice](/images/stories/fried_rice.jpg)
 
 Now you guys might be wondering,
 
@@ -738,7 +738,7 @@ And apologised as dramatically as I possibly could.
 
 > "Sumimasen!"
 
-![Sumimasen](../../../../../public/images/stories/tenor.gif)
+![Sumimasen](/images/stories/tenor.gif)
 
 
 The entire table burst into laughter.
@@ -777,7 +777,7 @@ I finally managed to finish my meal.
 
 Jessica happened to point her camera at me right then.
 
-![Holding my chopsticks like I'd mastered them.](../../../../../public/images/stories/chopsticks-group.jpg)
+![Holding my chopsticks like I'd mastered them.](/images/stories/chopsticks-group.jpg)
 
 *The confidence of a man who believed he'd finally conquered chopsticks.*
 
@@ -802,7 +802,7 @@ The plates were nearly empty.
 
 The conversations slowly faded away as he reached our table.
 
-![The conference chair making his way around the banquet hall, sharing a final toast with every table.](../../../../../public/images/stories/conference-chair-toast.jpg)
+![The conference chair making his way around the banquet hall, sharing a final toast with every table.](/images/stories/conference-chair-toast.jpg)
 
 *The conference chair making his way around the banquet hall, sharing a final toast with every table.*
 
@@ -828,7 +828,7 @@ everyone had stopped eating.
 
 Everyone was listening.
 
-![Our table listening as the conference chair shared a few final words.](../../../../../public/images/stories/table-toast.jpg)
+![Our table listening as the conference chair shared a few final words.](/images/stories/table-toast.jpg)
 
 *Our table listening to the conference chair before raising our cups.*
 
@@ -840,7 +840,7 @@ Without anyone saying a word...
 
 the rest of us did the same.
 
-![One final toast before everyone went their separate ways.](../../../../../public/images/stories/banquet-final-toast.JPG)
+![One final toast before everyone went their separate ways.](/images/stories/banquet-final-toast.JPG)
 
 *One final toast before everyone went their separate ways.*
 
@@ -965,5 +965,5 @@ But in that moment...
 I wasn't thinking about dignity.
 
 I just wanted to survive the walk back.
-![Trying to hide behind Yuchen's suitcase](../../../../../public/images/stories/yuchen-suitcase.jpeg)
+![Trying to hide behind Yuchen's suitcase](/images/stories/yuchen-suitcase.jpeg)
 *My very sophisticated strategy for surviving the Hong Kong wind.*

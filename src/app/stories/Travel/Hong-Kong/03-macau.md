@@ -242,7 +242,7 @@ Sometimes pretending not to notice the camera.
 
 Sometimes striking the most ridiculous pose I could think of.
 
-![Boom posing while I happily ruin another perfectly good photo.](../../../../../public/images/stories/boom-photobomb.jpeg)
+![Boom posing while I happily ruin another perfectly good photo.](/images/stories/boom-photobomb.jpeg)
 
 The best part?
 
@@ -539,7 +539,7 @@ Naturally...
 
 they found the whole story much funnier than I did.
 
-![Everyone waiting together at the airport after our unexpected customs adventure.](../../../../../public/images/stories/airport-floor-friends.jpg)
+![Everyone waiting together at the airport after our unexpected customs adventure.](/images/stories/airport-floor-friends.jpg)
 
 *Not exactly how I'd imagined ending my first trip to Macau... but it certainly made for a memorable story.*
 
