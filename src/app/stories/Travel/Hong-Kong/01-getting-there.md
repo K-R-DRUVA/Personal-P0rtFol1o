@@ -147,7 +147,7 @@ I wasn't wrong.
 ---
 
 # Chungking Mansions
-
+![Chungking Mansion.](/images/stories/chungking-mansion-entrance.jpg)
 To save some money, I had booked a room in one of Hong Kong's most iconic buildings—Chungking Mansions.
 
 If you've never heard of it before, neither had I.
@@ -165,7 +165,7 @@ Safe to say...
 my confidence wasn't exactly increasing.
 
 But after spending some time there, I slowly started understanding why so many people still stayed there.
-
+![Chungking Mansion Overview.](/images/stories/chungking-mansion.jpg)
 It wasn't fancy.
 
 It wasn't luxurious.

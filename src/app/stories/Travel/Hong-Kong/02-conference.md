@@ -905,27 +905,6 @@ But for one evening...
 we all sat around the same table.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # A Cold Walk Back
 
 Dinner was finally over.
@@ -967,3 +946,117 @@ I wasn't thinking about dignity.
 I just wanted to survive the walk back.
 ![Trying to hide behind Yuchen's suitcase](/images/stories/yuchen-suitcase.jpeg)
 *My very sophisticated strategy for surviving the Hong Kong wind.*
+
+---
+
+# The Birthday at 7-Eleven
+
+The night after we got back to TST, a few of us decided to go out and celebrate.
+
+I was 20 at the time, and I'd never actually had a drink before.
+
+So, naturally...
+
+I was feeling a little restless.
+
+At some point, Boom got a call from a friend and stepped outside.
+
+I didn't really feel like sitting around either, so I went out with him.
+![7 eleven](/images/stories/7eleven.png)
+We ended up walking to a nearby 7-Eleven.
+
+And that's where the night took a completely unexpected turn.
+
+We met a man who looked like he was probably in his fifties.
+
+He seemed like he was having a rough day.
+
+It was me, Boom and him, just standing around a convenience store and talking.
+
+Nothing particularly serious.
+
+Just a random conversation between three people who probably would've never met otherwise.
+
+Then, somewhere in the conversation, he mentioned that it was his birthday.
+
+The way he said it caught me.
+
+There was something heavy in his voice.
+
+It sounded like nobody had really remembered.
+
+I looked around the store.
+
+And thought...
+
+**"Well, I can at least do something."**
+
+I quickly grabbed two cupcakes.
+
+They cost me around **HK$35**.
+
+Boom kept him occupied while I went to pay.
+
+Then I came back with the cupcakes.
+
+I handed them to him.
+
+And...
+
+he almost burst into tears.
+
+He told us that nobody had really done anything for him that day.
+
+He was genuinely touched.
+
+He happily took a picture with us and said he was going to post it on Facebook because nobody had ever done something like that for him before.
+
+And honestly...
+
+I don't think I expected a couple of cupcakes from a 7-Eleven to mean that much to someone.
+
+Just before his cab arrived, he told us something I'll probably never forget.
+
+I don't remember his exact words anymore, but the message was something along the lines of:
+
+> **"You guys are the future of humanity. The future is in safe hands."**
+
+It was such a strange thing to hear.
+
+Two students from India, standing outside a 7-Eleven in Hong Kong, being told by a complete stranger that the future was in our hands.
+
+For some reason...
+
+that stayed with me.
+
+I'd travelled all the way to Hong Kong for an international conference.
+
+And somehow, one of the moments I remember most clearly...
+
+wasn't from the conference at all.
+
+It was buying two cupcakes for a stranger on his birthday.
+
+His cab eventually arrived.
+
+He thanked us one more time, got in, and left.
+
+Boom and I just stood there for a moment.
+
+And then, naturally...
+
+we went straight back to messing around.
+
+Because apparently that's how our night worked.
+
+But I couldn't help thinking about it afterward.
+
+Maybe I was supposed to come all the way from India to Hong Kong for the conference.
+
+Maybe I was supposed to meet all these people, present a paper, see Macau, and experience everything I'd planned.
+
+But somehow...
+
+I also ended up being there on the right night for one random person who just needed someone to remember his birthday.
+
+And for **HK$35**, I got a memory I'll probably carry for a very long time.
