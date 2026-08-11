@@ -840,7 +840,7 @@ Without anyone saying a word...
 
 the rest of us did the same.
 
-![One final toast before everyone went their separate ways.](/images/stories/banquet-final-toast.JPG)
+![One final toast before everyone went their separate ways.](/images/stories/banquet-final-toast.jpg)
 
 *One final toast before everyone went their separate ways.*
 
