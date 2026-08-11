@@ -565,7 +565,7 @@ Finally...
 
 After watching me struggle for what must have felt like an eternity...
 
-one of the teachers finally gave up and said,
+Prof.Air finally gave up and said,
 
 > "Why don't you just use both chopsticks together and stab it?"    
 
@@ -961,7 +961,7 @@ I was feeling a little restless.
 
 At some point, Boom got a call from a friend and stepped outside.
 
-I didn't really feel like sitting around either, so I went out with him.
+I didn't really feel like sitting around , so I went out with him.
 ![7 eleven](/images/stories/7eleven.png)
 We ended up walking to a nearby 7-Eleven.
 

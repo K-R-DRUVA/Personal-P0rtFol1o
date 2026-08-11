@@ -1,4 +1,3 @@
-# 🇭🇰 Hong Kong & Macau
 
 January 10–12, 2026
 

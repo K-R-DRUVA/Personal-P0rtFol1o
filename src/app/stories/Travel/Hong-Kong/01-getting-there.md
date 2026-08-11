@@ -148,7 +148,7 @@ I wasn't wrong.
 
 # Chungking Mansions
 ![Chungking Mansion.](/images/stories/chungking-mansion-entrance.jpg)
-To save some money, I had booked a room in one of Hong Kong's most iconic buildings—Chungking Mansions.
+To save some money, I had booked a room in one of Hong Kong's most iconic buildings Chungking Mansions.
 
 If you've never heard of it before, neither had I.
 
@@ -234,7 +234,7 @@ and I remember thinking,
 
 Okay... at least one person here doesn't think I'm completely lost.
 
-Years later, I found out what was going through his head.
+A Couple hours later, I found out what was going through his head.
 
 He told me,
 
