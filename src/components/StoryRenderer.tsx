@@ -130,35 +130,17 @@ export default function StoryRenderer({
             ),
 
             img: ({ src, alt }) => (
-              <figure
+              <img
+                src={src}
+                alt={alt || ""}
                 style={{
+                  display: "block",
+                  width: "100%",
+                  height: "auto",
+                  borderRadius: "12px",
                   margin: "3rem 0",
                 }}
-              >
-                <img
-                  src={src}
-                  alt={alt || ""}
-                  style={{
-                    display: "block",
-                    width: "100%",
-                    height: "auto",
-                    borderRadius: "12px",
-                  }}
-                />
-
-                {alt && (
-                  <figcaption
-                    style={{
-                      marginTop: "0.75rem",
-                      fontSize: "0.85rem",
-                      lineHeight: 1.5,
-                      opacity: 0.6,
-                    }}
-                  >
-                    {alt}
-                  </figcaption>
-                )}
-              </figure>
+              />
             ),
 
             hr: () => (
