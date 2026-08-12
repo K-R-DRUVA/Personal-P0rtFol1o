@@ -939,13 +939,211 @@ Did I look ridiculous?
 
 Absolutely.
 
-But in that moment...
 
-I wasn't thinking about dignity.
-
-I just wanted to survive the walk back.
 ![Trying to hide behind Yuchen's suitcase](/images/stories/yuchen-suitcase.jpeg)
 *My very sophisticated strategy for surviving the Hong Kong wind.*
+
+# Sneaker Street and One Very Bad Idea
+
+We eventually made it to the bus stand.
+
+I thought we were finally heading straight back to the hotel.
+
+I was wrong.
+
+We took the bus to the subway and decided to stop around Mong Kok's Sneaker Street to do some shopping.
+
+I remember being genuinely amazed by the place.
+
+The streets were packed with shops, bright signs, and stores that seemed much bigger and more interesting than anything I had expected to see.
+
+I don't even remember exactly what we were looking for anymore.
+![Kowloon-Sneaker-Street.](/images/stories/kowloon.jpg)
+We were just walking around...
+
+looking at things...
+
+and enjoying the fact that we were in Hong Kong.
+
+There was one problem.
+
+We still had Yuchen's suitcase with us.
+
+And by then, I had already discovered that one of its wheels was broken.
+
+So moving it around wasn't exactly the smoothest experience.
+
+We were travelling in three groups.
+
+It was me and Boom in front.
+
+Japan and Yuchen were just behind us.
+
+Prof. Air and Prof. Cat were further back.
+
+Basically...
+
+we had somehow formed our own little travelling convoy.
+
+Then, as we were walking through the shopping street, we came across a photoshoot happening along the side of the road.
+
+The entire street had been closed to traffic, so it was fairly crowded with people walking in both directions. It wasn't the kind of crowd where you could barely move, though. People were moving pretty quickly, and there was still enough space to get around.
+
+The photoshoot was happening along one side of the street.
+
+There were about a dozen schoolchildren, probably in their early teens, lined up like they were taking a class photograph.
+
+Shorter kids at the front.
+
+Taller ones at the back.
+
+And all of them were dressed in those green Squid Game-style tracksuits.
+
+It looked like some kind of promotional shoot.
+
+We were walking past them.
+
+Boom immediately stood out.
+
+He was around 187 cm tall.
+
+I was somewhere around 171 cm.
+
+So standing next to him already made me look considerably smaller.
+
+And then there was the suitcase.
+
+Still broken.
+
+Still being dragged around.
+
+Still somehow becoming part of everything we did.
+
+I looked back at Japan and Yuchen.
+
+They were talking to each other.
+
+I looked further back.
+
+Prof. Cat was looking in our direction.
+
+Prof. Air was somewhere between Japan and Yuchen and had a pretty clear view of us.
+
+And for some reason...
+
+my brain decided this was the perfect moment to do something stupid.
+
+I started trying to communicate with them without actually saying anything.
+
+Basically...
+
+I was silently trying to tell them:
+
+"Get your cameras ready."
+
+I pointed.
+
+Looked back.
+
+Made a few gestures.
+
+Looked at the photoshoot.
+
+Then looked at Boom.
+
+I don't think anyone completely understood what I was trying to communicate.
+
+Prof. Cat looked like she was trying to figure out what the hell I was doing.
+
+Japan and Yuchen were still talking.
+
+But I didn't care.
+
+I had already committed to the idea.
+
+And then...
+
+I saw the opportunity.
+
+I timed it.
+
+I pushed Boom.
+
+He stumbled.
+
+His foot caught the broken-wheel suitcase.
+
+And suddenly...
+
+Boom went straight into the photoshoot.
+
+I completely lost it.
+
+I burst out laughing.
+
+The people around us were laughing too.
+
+Well...
+
+almost everyone.
+
+Boom wasn't.
+
+Yuchen immediately went over and grabbed her suitcase, almost as if the suitcase itself had been the victim of the whole incident.
+
+And honestly...
+
+I felt worse for the suitcase than I did for Boom.
+
+That poor thing had already lost a wheel.
+
+Now it had been dragged into whatever crime I had just committed.
+
+Boom eventually came back.
+
+He apologised to the people involved and then gave me a small lecture.
+
+Not an angry one.
+
+Just...
+
+a very reasonable explanation of why I probably shouldn't do that again.
+
+Those kids had apparently spent time getting their costumes ready, getting everything cleaned up, lining themselves up, and preparing for the photoshoot.
+
+And we'd just turned their perfectly organised shoot into a few seconds of chaos.
+
+He was right.
+
+I knew he was right.
+
+So I promised him I wouldn't do it again.
+
+At least...
+
+I promised.
+
+But I couldn't stop laughing.
+
+Looking back, that was probably the moment everyone on the trip realised what kind of person I was going to be for the rest of the journey.
+
+Not the guy who always had everything under control.
+
+Not the serious researcher travelling to an international conference.
+
+Just...
+
+the guy who saw a broken suitcase, his 187-cm friend, and a Squid Game photoshoot...
+
+and somehow thought,
+
+"Yeah. I can work with this."
+
+Eventually, we made our way back towards TST.
+
+By then, I thought the night was probably over.
+
+It wasn't.
 
 ---
 
